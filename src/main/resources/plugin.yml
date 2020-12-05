@@ -1,0 +1,8 @@
+name: Navigator
+version: @version@
+main: com.github.fivekwbassmachine.papermc.navigator.navigator.Navigator
+api-version: 1.16
+prefix: Navigator
+authors: [5kWBassMachine]
+description: Description
+website: https://github.com/fivekWBassMachine/PaperMC-Navigator
